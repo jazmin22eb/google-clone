@@ -10,7 +10,7 @@ Para ello se puso en practica lo visto en los cursos para lograr realizar un clo
 ## 1. Demo
 Puedes entrar a ver el demo en este vínculo: 
 
-https://dazzling-nightingale-01ce86.netlify.app
+https://jazmin22eb.github.io/google-clone/
 ****
 
 ## 2. Contenido del proyecto
